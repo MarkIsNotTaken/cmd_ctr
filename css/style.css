@@ -1,0 +1,29 @@
+#box {
+	background-color: black;
+	border: solid black;
+	height: 100px;
+	width: 100px;
+}
+
+#box2 {
+	background-color: black;
+	border: solid black;
+	height: 100px;
+	width: 100px;
+}
+
+div.onmouseover {
+	background-color: green;
+	border: solid black;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+
+div.ondblclick {
+	background-color: green;
+	border: solid black;
+	height: 100px;
+	width: 100px;
+	float: right;
+}
